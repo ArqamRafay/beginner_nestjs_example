@@ -1,3 +1,11 @@
+<p>
+Let's build a simple NestJs app from scratch!
+Git repo for the completed project: https://github.com/ArqamRafay/beginner_nestjs_example.git...
+The goal of this lesson is to help us have a clearer understanding of NestJs project structure.
+In line with that goal, we're going to build a basic NestJs application from scratch, without using the CLI. In addition to understanding the structure, this will help us understand the codes that Nest CLI generated when we start making use of the CLI
+</p>
+<p> Referrence :  https://www.youtube.com/watch?v=yNj_tzbX6BQ</p>
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
